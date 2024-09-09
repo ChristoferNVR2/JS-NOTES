@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+#clock-container{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* font-size: 5em; */
+}
+#clock{
+    font-family: monospace;
+    font-size: 6.5em;
+    font-weight: bold;
+    text-align: center;
+}
+#header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
